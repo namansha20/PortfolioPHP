@@ -1,0 +1,44 @@
+PROFESSIONAL RESUME
+===================
+
+Name: Your Name
+Email: contact@example.com
+Phone: +1 234 567 8900
+
+OBJECTIVE
+---------
+Dedicated professional seeking opportunities in web development.
+
+EDUCATION
+---------
+Bachelor of Computer Science
+University Name, 2020
+
+EXPERIENCE
+----------
+Web Developer
+Company Name, 2021-Present
+- Developed web applications using PHP
+- Collaborated with team members
+- Maintained and improved existing systems
+
+SKILLS
+------
+- PHP Development
+- HTML/CSS
+- JavaScript
+- Database Management
+- Problem Solving
+
+CERTIFICATIONS
+--------------
+- Web Development Certificate (2023)
+- PHP Programming Certificate (2022)
+- Database Management Certificate (2021)
+
+ACHIEVEMENTS
+------------
+- Best Project Award (2023)
+- Top Performer (2022)
+- Community Contributor
+- Published Technical Articles
