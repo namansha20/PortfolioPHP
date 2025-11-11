@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>Portfolio - Contact</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <h1>Contact Me</h1>
